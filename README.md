@@ -10,6 +10,6 @@ Feel free to reach out to me via email at [charishma.b22@iiits.in] or connect wi
 
 I'm always eager to collaborate on exciting projects or discuss new opportunities. Let's connect and make something awesome together!
 
-##View my portfolio below
+##View my portfolio below by clicking on the image
 
 <a href="https://charishmas-portfolio.onrender.com"><img src="https://i.ibb.co/SVXmwV5/github.jpg" alt="github" border="0"></a>
