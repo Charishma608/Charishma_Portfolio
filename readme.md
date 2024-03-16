@@ -12,4 +12,4 @@ I'm always eager to collaborate on exciting projects or discuss new opportunitie
 
 ##View my portfolio below
 
-![Profile Picture](https://ibb.co/7rJptrj)
+<img align="right" alt="DreamWorld" width="400" src="https://ibb.co/7rJptrj "/>
